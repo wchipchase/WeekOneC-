@@ -1,0 +1,10 @@
+C:\Users\wchip\source\repos\NotHelloWorld\NotHelloWorld\bin\Debug\netcoreapp2.2\NotHelloWorld.deps.json
+C:\Users\wchip\source\repos\NotHelloWorld\NotHelloWorld\bin\Debug\netcoreapp2.2\NotHelloWorld.runtimeconfig.json
+C:\Users\wchip\source\repos\NotHelloWorld\NotHelloWorld\bin\Debug\netcoreapp2.2\NotHelloWorld.runtimeconfig.dev.json
+C:\Users\wchip\source\repos\NotHelloWorld\NotHelloWorld\bin\Debug\netcoreapp2.2\NotHelloWorld.dll
+C:\Users\wchip\source\repos\NotHelloWorld\NotHelloWorld\bin\Debug\netcoreapp2.2\NotHelloWorld.pdb
+C:\Users\wchip\source\repos\NotHelloWorld\NotHelloWorld\obj\Debug\netcoreapp2.2\NotHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\wchip\source\repos\NotHelloWorld\NotHelloWorld\obj\Debug\netcoreapp2.2\NotHelloWorld.AssemblyInfoInputs.cache
+C:\Users\wchip\source\repos\NotHelloWorld\NotHelloWorld\obj\Debug\netcoreapp2.2\NotHelloWorld.AssemblyInfo.cs
+C:\Users\wchip\source\repos\NotHelloWorld\NotHelloWorld\obj\Debug\netcoreapp2.2\NotHelloWorld.dll
+C:\Users\wchip\source\repos\NotHelloWorld\NotHelloWorld\obj\Debug\netcoreapp2.2\NotHelloWorld.pdb

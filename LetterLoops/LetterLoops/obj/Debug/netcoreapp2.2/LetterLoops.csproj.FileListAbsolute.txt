@@ -1,0 +1,11 @@
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.deps.json
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.runtimeconfig.json
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.runtimeconfig.dev.json
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.dll
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\bin\Debug\netcoreapp2.2\LetterLoops.pdb
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.csprojAssemblyReference.cache
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.csproj.CoreCompileInputs.cache
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.AssemblyInfoInputs.cache
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.AssemblyInfo.cs
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.dll
+C:\Users\wchip\source\repos\LetterLoops\LetterLoops\obj\Debug\netcoreapp2.2\LetterLoops.pdb

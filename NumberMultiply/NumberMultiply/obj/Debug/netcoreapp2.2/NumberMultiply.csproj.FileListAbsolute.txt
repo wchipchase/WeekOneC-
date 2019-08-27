@@ -1,0 +1,11 @@
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\bin\Debug\netcoreapp2.2\NumberMultiply.deps.json
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\bin\Debug\netcoreapp2.2\NumberMultiply.runtimeconfig.json
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\bin\Debug\netcoreapp2.2\NumberMultiply.runtimeconfig.dev.json
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\bin\Debug\netcoreapp2.2\NumberMultiply.dll
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\bin\Debug\netcoreapp2.2\NumberMultiply.pdb
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\obj\Debug\netcoreapp2.2\NumberMultiply.csprojAssemblyReference.cache
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\obj\Debug\netcoreapp2.2\NumberMultiply.csproj.CoreCompileInputs.cache
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\obj\Debug\netcoreapp2.2\NumberMultiply.AssemblyInfoInputs.cache
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\obj\Debug\netcoreapp2.2\NumberMultiply.AssemblyInfo.cs
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\obj\Debug\netcoreapp2.2\NumberMultiply.dll
+C:\Users\wchip\source\repos\NumberMultiply\NumberMultiply\obj\Debug\netcoreapp2.2\NumberMultiply.pdb
